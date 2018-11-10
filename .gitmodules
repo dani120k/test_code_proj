@@ -1,0 +1,2 @@
+[submodule "demo"]
+	path = demo	url = git://github.com/ivsor/restaurant-ordering-systems/cumulative/demo.git

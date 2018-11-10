@@ -10,3 +10,6 @@
 [submodule "ros-admin-service"]
 	path = ros-admin-service
 	url = https://github.com/ivsor/ros-admin-service
+[submodule "ros-config-server"]
+	path = ros-config-server
+	url = https://github.com/ivsor/ros-config-server.git

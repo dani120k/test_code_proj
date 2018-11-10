@@ -1,6 +1,6 @@
-[submodule "auth-service"]
-	path = auth-service
-	url = git://github.com/ivsor/ros-auth-service.git
-[submodule "order-service"]
-	path = order-service
-	url = git://github.com/ivsor/ros-order-service.git
+[submodule "ros-auth-service"]
+	path = ros-auth-service
+	url = https://github.com/ivsor/ros-auth-service
+[submodule "ros-order-service"]
+	path = ros-order-service
+	url = https://github.com/ivsor/ros-order-service

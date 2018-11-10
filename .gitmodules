@@ -1,0 +1,3 @@
+[submodule "cumulative"]
+	path = cumulative
+	url = git://github.com/ivsor/restaurant-ordering-systems.git

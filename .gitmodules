@@ -4,3 +4,9 @@
 [submodule "ros-order-service"]
 	path = ros-order-service
 	url = https://github.com/ivsor/ros-order-service
+[submodule "ros-cook-service"]
+	path = ros-cook-service
+	url = https://github.com/ivsor/ros-cook-service
+[submodule "ros-admin-service"]
+	path = ros-admin-service
+	url = https://github.com/ivsor/ros-admin-service
